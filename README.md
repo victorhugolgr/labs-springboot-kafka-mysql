@@ -1,5 +1,8 @@
-# labs-springboot-kafka-mysql
-Laboratório de integração entre spring boot, kafka e mysql
+<p align="center">
+  <img height="300" src="./imagem.png">
+</p>
+
+## Laboratório de integração entre spring boot, kafka e mysql
 
 ## Objetivos
 - [ ] Subir o apache kafka versão da confluent via docker-compose;
